@@ -44,7 +44,7 @@ html {
 }
  
  @media (min-width: 210px) { 
-/*    (min-width: 768px)  */
+   /* (min-width: 768px)  */
   .nav li:hover,
   .navbar-nav li a .fa:hover,
   .nav li a:hover {
